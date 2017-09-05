@@ -1,7 +1,7 @@
 # Data Science Roadmap
 
 ## Youtube
-### Microsoft Azure: Data Science for beginners
+### 1YT Microsoft Azure: Data Science for beginners
 https://www.youtube.com/watch?v=0XyV91VYrDs&list=PLLasX02E8BPB997krgQN3V9UmUBRVKpmD
 
 ### Ted
