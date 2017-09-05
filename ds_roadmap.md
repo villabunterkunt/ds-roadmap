@@ -16,6 +16,14 @@ https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2r
 https://www.youtube.com/watch?v=0Q3sRSUYmys
 
 ## Books
+
+Head First Data Analysis
+Think Bayes
+Think Stats
+Thoughtful Machine Learning in Python
+Practical Machine Learning
+Graph Databases
+
 ## Onlinecourses
 
 
