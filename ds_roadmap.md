@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=0Q3sRSUYmys
 
 ## Books
 
-Head First Data Analysis
-Think Bayes
-Think Stats
-Thoughtful Machine Learning in Python
-Practical Machine Learning
-Graph Databases
+* Head First Data Analysis
+* Think Bayes
+* Think Stats
+* Thoughtful Machine Learning in Python
+* Practical Machine Learning
+* Graph Databases
 
 ## Onlinecourses
 
