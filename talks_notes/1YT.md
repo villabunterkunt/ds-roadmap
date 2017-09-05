@@ -31,3 +31,51 @@ Clustering algorithms
 5. What should I do next?
 
 Reinforcment learning algorithms
+
+## Is your data ready for data science?
+
+4 requirements:
+
+* Relevant
+there has to be a relationship
+
+* Connected
+not too many gaps in the data
+
+* Accurate
+mind: precice and accurate!
+not too much scattering, "near the target"
+
+* Enough to Work with
+patterns need to be apparent
+
+## Ask a question you can answer with data
+
+* "sharp question"
+* examples of the answer in the data necessary
+
+Examples of the answer:
+
+* target answer
+* A or B: category
+* How much/how many: regression
+* Type of question is hint to used algorithm!
+
+## Predict an answer with a simple model
+
+Model = simplified story about our data
+
+Simple example: Predict diamond price!
+
+Draw a simple scatterplot with carates/prices + observe pattern. (Linear Regression: How much? Straight line.)
+
+## Copy other people’s work to do data science
+
+The title reminds me of the book "Steal like an artist" from 
+Austion Kleon, which i wanted to read for a long time. :)
+
+We get encouraged to use Microsoft Azure.
+
+# Roundup
+
+Pretty light and sweet introduction to datascience. Was fun to watch and a perfect restart to the topic. 

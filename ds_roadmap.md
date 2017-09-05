@@ -4,7 +4,7 @@ Is it a roadmap? Is it a manifesto for myself to keep learning? I don't know, bu
 
 ## Youtube
 ### 1YT Microsoft Azure: Data Science for beginners
-https://www.youtube.com/watch?v=0XyV91VYrDs&list=PLLasX02E8BPB997krgQN3V9UmUBRVKpmD
+https://www.youtube.com/watch?v=0XyV91VYrDs&list=PLLasX02E8BPB997krgQN3V9UmUBRVKpmD (finished on September 5th 2017b)
 
 ### Ted
 
