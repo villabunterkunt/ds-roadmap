@@ -1,5 +1,7 @@
 # Data Science Roadmap
 
+Is it a roadmap? Is it a manifesto for myself to keep learning? I don't know, but I'm sure we're going to have fun. And that's what it's all about, isn't it?
+
 ## Youtube
 ### 1YT Microsoft Azure: Data Science for beginners
 https://www.youtube.com/watch?v=0XyV91VYrDs&list=PLLasX02E8BPB997krgQN3V9UmUBRVKpmD
