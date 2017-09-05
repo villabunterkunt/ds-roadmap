@@ -1,5 +1,5 @@
 # Data science for beginners
-### by Microsoft Azure[Link](https://www.youtube.com/watch?v=0XyV91VYrDs&list=PLLasX02E8BPB997krgQN3V9UmUBRVKpmD "Data science for beginners")
+### by Microsoft Azure [Link](https://www.youtube.com/watch?v=0XyV91VYrDs&list=PLLasX02E8BPB997krgQN3V9UmUBRVKpmD "Data science for beginners")
 
 Consists of 5 Parts:
 
