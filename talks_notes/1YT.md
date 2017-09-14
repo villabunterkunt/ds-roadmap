@@ -78,4 +78,4 @@ We get encouraged to use Microsoft Azure.
 
 # Roundup
 
-Pretty light and sweet introduction to datascience. Was fun to watch and a perfect restart to the topic. 
+Pretty light and sweet introduction to datascience. Was fun to watch and a perfect way to get a restart to the topic. 
