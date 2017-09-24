@@ -50,9 +50,14 @@ I've already got some skills in the area of programming and slightly touched the
 
 
 Here are some of the articles I skimmed to get an overview about required skills:
+
 [https://blog.udacity.com/2014/11/data-science-job-skills.html]
-http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html
-http://www.mastersindatascience.org/data-scientist-skills/
-https://www.forbes.com/sites/quora/2017/06/15/what-are-the-top-five-skills-data-scientists-need/#7f8b87a7c0c0
-http://www.kdnuggets.com/faq/learning-data-mining-data-science.html
+
+[http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html]
+
+[http://www.mastersindatascience.org/data-scientist-skills/]
+
+[https://www.forbes.com/sites/quora/2017/06/15/what-are-the-top-five-skills-data-scientists-need/#7f8b87a7c0c0]
+
+[http://www.kdnuggets.com/faq/learning-data-mining-data-science.html]
 
