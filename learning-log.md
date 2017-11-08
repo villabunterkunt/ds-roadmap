@@ -12,4 +12,5 @@
 |2017-10-10|"descriptive statistics" onlinecourse udacity|1,0|Complete Lesson 11: Variability, now 61% of course done |
 |2017-10-16|"descriptive statistics" onlinecourse udacity|1,0|Complete Lesson 12: Variability Quiz, now 65% of course done |
 |2017-10-16|"descriptive statistics" onlinecourse udacity|2,0|Complete Lesson 13, 14, 15: Standardization & Quizzes, now 76% of course done |
-|   |   |   |   |
+|2017-11-08| "descriptive statistics" onlinecourse udacity|0,25| Lesson 17 Beginning: Quiz |
+| i kind of lost track here  |   |   |   |

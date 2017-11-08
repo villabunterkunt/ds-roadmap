@@ -39,4 +39,12 @@ https://www.youtube.com/watch?v=0XyV91VYrDs&list=PLLasX02E8BPB997krgQN3V9UmUBRVK
 
 * [Medium, Plotly: Introducing Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503 "Introducing Dash") | Data Visualization 
 
+## Podcasts
+http://datastori.es/
+https://dataskeptic.com/podcast
+http://www.becomingadatascientist.com/category/podcast/
+http://podcast.datascienceathome.com/
+
+
+
 
